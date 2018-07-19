@@ -25,8 +25,8 @@ under the License.
   <parent>
     <artifactId>maven-plugins</artifactId>
     <groupId>org.apache.maven.plugins</groupId>
-    <version>28</version>
-    <relativePath>../../pom/maven/maven-plugins/pom.xml</relativePath>
+    <version>32</version>
+    <relativePath>*</relativePath>
   </parent>
 
   <artifactId>maven-ant-plugin</artifactId>
